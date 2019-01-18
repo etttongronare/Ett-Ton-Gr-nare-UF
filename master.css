@@ -1,6 +1,6 @@
 p{
-  font-family: 'Poiret One', cursive;
-  font-size: 1.5em;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.4em;
 
 }
 h2{
@@ -10,7 +10,9 @@ h2{
 h1{
   font-family: 'Josefin Slab', serif;
 }
-
+#nav_style{
+  font-family: 'Poiret One', cursive;
+}
 #main_enter_btn{
   position:fixed;
   top: 50%;
@@ -56,5 +58,7 @@ google fonts
   font-family: 'Hammersmith One', sans-serif;
 
   font-family: 'Saira Extra Condensed', sans-serif;
+
+  font-family: 'Open Sans', sans-serif;
 
 **/
