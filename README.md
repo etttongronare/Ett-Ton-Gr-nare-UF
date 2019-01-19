@@ -24,6 +24,6 @@ In the near future, companies will choose a more climate-smart way to avoid buyi
 
 ![alt text](img/etguf.png)
 
-### Main people ate etguf
+### Main people at ETGUF:
 
-UF : Alfred Faring, Albin högberg, Dante Domäng and Leo Mileblad
+Alfred Faring, Albin högberg, Dante Domäng and Leo Mileblad
