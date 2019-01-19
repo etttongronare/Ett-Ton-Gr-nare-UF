@@ -1,4 +1,4 @@
-# Ett-Ton-Grönare-UF
+# Ett-Ton-Gr-nare-UF
 
 This is the reposetory for the website: **www.etguf.se**
 
