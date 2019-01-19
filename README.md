@@ -1,6 +1,6 @@
 # Ett-Ton-Grönare-UF
 
-This is the reposetory for the wwebsite: **www.etguf.se**
+This is the reposetory for the website: **www.etguf.se**
 
 The website is powered by *www.netlify.com*
 
