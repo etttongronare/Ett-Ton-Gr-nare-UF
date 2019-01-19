@@ -23,3 +23,7 @@ Here we come in. Instead of a company selling to another, we purchase emission r
 In the near future, companies will choose a more climate-smart way to avoid buying the emission rights because they become more expensive and more expensive. In this way, even smaller players, such as ETG UF, can influence and make it more expensive for companies to emit harmful greenhouse gases, one ton at a time.
 
 ![alt text](img/etguf.png)
+
+### Main people ate etguf
+
+UF : Alfred Faring, Albin högberg, Dante Domäng and Leo Mileblad
