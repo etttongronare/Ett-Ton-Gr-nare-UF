@@ -1,6 +1,6 @@
 # Ett-Ton-Gr-nare-UF
 
-This is the reposetory for the website: **www.etguf.se**
+This is the reposetory for the website: **www.etguf.se** will be shutdown 2020-01-10
 
 The website is powered by *www.netlify.com*
 
